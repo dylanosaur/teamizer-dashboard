@@ -1,9 +1,9 @@
 player              : wins/total   wins       losses     rate       rate update  sigma     
 CSA_G_Bryan_        : 0.21         3          11         17         2020-10-12   -2.1      
-CSA_JR_Chalmers     : 0.34         12         23         37         2020-10-01   -1.8      
+CSA_JR_Chalmers     : 0.36         13         23         37         2020-10-01   -1.6      
 CSA_E__VanDorn      : 0.31         5          11         8          2020-10-01   -1.5      
+CSA_J_Archer        : 0.33         6          12         20         2020-10-01   -1.4      
 CSA_S_Wood          : 0.40         20         29         30         2020-10-01   -1.2      
-CSA_J_Archer        : 0.35         6          11         20         2020-10-01   -1.2      
 CSA_WHF_Payne       : 0.36         7          12         14         2020-10-01   -1.1      
 CSA_H_Gray          : 0.39         11         17         31         2020-09-21   -1.1      
 CSA_WR_Cox          : 0.35         5          9          28         2020-10-13   -1.0      
@@ -16,11 +16,11 @@ CSA_J_Wheeler       : 0.33         3          6          8          2020-10-01  
 CSA_R_A_Toombs      : 0.0          0          1          17         2020-10-01   -0.5      
 CSA_J_H_Lane        : 0.0          0          1          18         2020-10-01   -0.5      
 CSA_F_M_Drake       : 0.33         3          6          16         2020-10-01   -0.5      
-CSA_R_W_Hanson      : 0.33         2          4          10         2020-10-12   -0.4      
-CSA_E_Smith         : 0.47         28         31         13         2020-10-01   -0.3      
+CSA_G_B_Hodge       : 0.33         2          4          41         2020-10-19   -0.4      
 CSA_H_Prince__      : 0.33         1          2          32         2020-10-01   -0.2      
 CSA_F_Armstrong     : 0.48         29         31         16         2020-10-01   -0.2      
-CSA_G_B_Hodge       : 0.4          2          3          41         2020-10-19   -0.2      
+CSA_E_Smith         : 0.48         29         31         13         2020-10-01   -0.2      
+CSA_R_W_Hanson      : 0.42         3          4          10         2020-10-12   -0.1      
 CSA_A_Clark__       : 0.5          13         13         11         2020-10-01   0.0       
 CSA_W_Walker_       : 0.0          0          0          22         2020-10-01   0.0       
 CSA_HA_Wise         : 0.0          0          0          22         2020-10-01   0.0       
@@ -52,11 +52,11 @@ CSA_Crittenden      : 0.52         12         11         24         2020-08-23  
 CSA_G_P_Doles       : 0.6          3          2          37         2020-10-19   0.22      
 CSA_WP_Roberts      : 0.53         7          6          26         2020-10-01   0.27      
 CSA_R_C_Wheat       : 0.52         21         19         16         2020-10-01   0.31      
+CSA_EF_Paxton       : 0.52         37         34         16         2020-10-01   0.35      
 CSA_R_Griffith      : 0.53         16         14         19         2020-10-12   0.36      
 CSA_J_Sanders       : 0.52         31         28         40         2020-10-01   0.39      
 CSA_SB_Buckner      : 0.52         29         26         28         2020-10-01   0.40      
 CSA_McCausland      : 0.66         4          2          24         2020-10-01   0.40      
-CSA_EF_Paxton       : 0.52         37         33         16         2020-10-01   0.47      
 CSA_J_B_Kershaw     : 1.0          1          0          17         2020-10-12   0.5       
 CSA_M_A_Scales_     : 0.71         5          2          20         2020-10-01   0.56      
 CSA_HW_Mercer       : 0.8          4          1          21         2020-10-19   0.67      
