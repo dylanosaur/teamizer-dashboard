@@ -55,6 +55,7 @@ CSA_B_M_Thomas      : 0.0          0          0          0          2020-08-23  
 CSA_A_Reynolds      : 0.0          0          0          0          2020-08-23   0.0       
 CSA_M_Scott         : 0.0          0          0          0          2020-08-23   0.0       
 CSA_A_Stewart       : 0.0          0          0          10         2020-10-01   0.0       
+CSA_D_Donelson      : 0.0          0          0          0          2020-08-23   0.0       
 CSA_JR_Ramseur      : 0.0          0          0          46         2020-10-07   0.0       
 CSA_EF_Paxton       : 0.50         36         35         16         2020-10-01   0.11      
 CSA_JA_Early        : 0.51         22         21         28         2020-10-01   0.15      
